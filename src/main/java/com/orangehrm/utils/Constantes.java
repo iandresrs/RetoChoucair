@@ -8,4 +8,7 @@ public class Constantes {
 
     public static final String HOJA_CREDENCIALES = "Credenciales";
 
+    public static final String HOJA_DATOS_CANDIDATO = "Formulario";
+
+    public static final String HOJA_DATOS_ENTREVISA = "Entrevista";
 }

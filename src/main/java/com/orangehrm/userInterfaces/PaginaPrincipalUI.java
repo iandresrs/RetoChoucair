@@ -11,4 +11,6 @@ public class PaginaPrincipalUI {
     public static final Target BTN_RECLUTAMIENTO = Target
             .the("boton para acceder al modulo de reclutamiento")
             .locatedBy("//span[text()='Recruitment']");
+
+
 }
